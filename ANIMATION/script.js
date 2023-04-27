@@ -50,7 +50,7 @@ for (let i=0; i<100; i++){
 
 }
 
-console.log(circleStore);
+//console.log(circleStore);
 
 function startUp(){
     requestAnimationFrame(startUp);
